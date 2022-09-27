@@ -41,6 +41,21 @@ This dataset has 19 classes consists of:
 
 ## All objects instances are listed below
 
+### train set
+
+|  category  | #instances   |  category  | #instances   |   category   | #instances   | 
+|:----------:|:-------------|:----------:|:-------------|:------------:|:-------------|
+|   Person   | 93209        |    Hat     | 14407        |     Hair     | 83797        |
+|   Glove    | 3245         | Sunglasses | 3550         | UpperClothes | 72028        |
+|   Dress    | 7777         |    Coat    | 32675        |    Socks     | 6283         |
+|   Pants    | 50798        | Torso-skin | 77807        |    Scarf     | 2985         |
+|   Skirt    | 3301         |    Face    | 87961        |   Left-arm   | 59088        |
+| Right-arm  | 61425        |  Left-leg  | 15038        |  Right-leg   | 14963        |
+| Left-shoe  | 24799        | Right-shoe | 24809        |              |              |
+|   total    | 739945       |            |              |              |              |
+
+
+### validation set
 |  category  | #instances   |  category  | #instances   |   category   | #instances   |
 |:----------:|:-------------|:----------:|:-------------|:------------:|:-------------|
 |   Person   | 17520        |    Hat     | 2536         |     Hair     | 15797        |
