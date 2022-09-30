@@ -82,7 +82,7 @@ This dataset has 19 classes consists of:
 
 |  category  | #pixel      |  category  | #pixel      |   category   | #pixel      |
 |:----------:|:------------|:----------:|:------------|:------------:|:------------|
-|   Person   | 5.33618e+08 |    Hat     | 5.56226e+06 |     Hair     | 4.07608e+07 |
+|   bg   | 5.33618e+08 |    Hat     | 5.56226e+06 |     Hair     | 4.07608e+07 |
 |   Glove    | 522334      | Sunglasses | 379419      | UpperClothes | 8.48936e+07 |
 |   Dress    | 1.73518e+07 |    Coat    | 6.33057e+07 |    Socks     | 1.28626e+06 |
 |   Pants    | 3.57697e+07 | Torso-skin | 1.23061e+07 |    Scarf     | 1.91357e+06 |
