@@ -67,3 +67,27 @@ This dataset has 19 classes consists of:
 | Left-shoe  | 4622         | Right-shoe | 4618         |              |              |
 |   total    | 138837       |            |              |              |              |
 
+### pixel density for train set
+|  category  | #pixel      |  category  | #pixel      |   category   | #pixel      |
+|:----------:|:------------|:----------:|:------------|:------------:|:------------|
+|   bg       | 2.98476e+09 |    Hat     | 3.16891e+07 |     Hair     | 2.3207e+08  |
+|   Glove    | 3.09781e+06 | Sunglasses | 2.00425e+06 | UpperClothes | 4.79024e+08 |
+|   Dress    | 1.00995e+08 |    Coat    | 3.69077e+08 |    Socks     | 6.47901e+06 |
+|   Pants    | 2.02236e+08 | Torso-skin | 7.33666e+07 |    Scarf     | 9.95388e+06 |
+|   Skirt    | 1.79153e+07 |    Face    | 2.21155e+08 |   Left-arm   | 7.85701e+07 |
+| Right-arm  | 8.40876e+07 |  Left-leg  | 1.88156e+07 |  Right-leg   | 1.86267e+07 |
+| Left-shoe  | 1.09868e+07 | Right-shoe | 1.11426e+07 |              |             |
+
+### pixel density for validation set
+
+|  category  | #pixel      |  category  | #pixel      |   category   | #pixel      |
+|:----------:|:------------|:----------:|:------------|:------------:|:------------|
+|   Person   | 5.33618e+08 |    Hat     | 5.56226e+06 |     Hair     | 4.07608e+07 |
+|   Glove    | 522334      | Sunglasses | 379419      | UpperClothes | 8.48936e+07 |
+|   Dress    | 1.73518e+07 |    Coat    | 6.33057e+07 |    Socks     | 1.28626e+06 |
+|   Pants    | 3.57697e+07 | Torso-skin | 1.23061e+07 |    Scarf     | 1.91357e+06 |
+|   Skirt    | 2.93269e+06 |    Face    | 3.79325e+07 |   Left-arm   | 1.32471e+07 |
+| Right-arm  | 1.46803e+07 |  Left-leg  | 3.13814e+06 |  Right-leg   | 3.10248e+06 |
+| Left-shoe  | 1.96614e+06 | Right-shoe | 1.99029e+06 |              |             |
+
+
