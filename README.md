@@ -4,9 +4,10 @@ In this repo I want to examin some of datasets that use in human parsing task.
 
 - for more information about human parsinag task please see [Human Parsing](https://paperswithcode.com/task/human-parsing/latest)
 
-# Lsit of datasets:
-- CIHP
+# List of datasets:
 - LIP
+- CIHP
+
 
 ## LIP
 **LIP** is a single human parsing datasets
