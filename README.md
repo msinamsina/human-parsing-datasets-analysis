@@ -6,6 +6,16 @@ In this repo I want to examin some of datasets that use in human parsing task.
 
 # Lsit of datasets:
 - CIHP
+- LIP
+
+## LIP
+**LIP** is a single human parsing datasets
+for download ad prepare dataset run:
+```
+cd /YOUR/TARGET/PATH
+wget https://raw.githubusercontent.com/msinamsina/human-parsing-datasets-analysis/main/src/lip/prepare_LIP.sh
+./prepare_LIP.sh
+```
 
 ## CIHP:
 **instance level human parsing** dataset or **CIHP** is one of datasets that use in human parsing task.
